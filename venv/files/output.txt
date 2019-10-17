@@ -1,0 +1,53 @@
+
+
+SELECTION SORT
+Time: 9.059906005859375e-06
+Compares: 3
+Swaps: 3
+Elements:
+1030 76 wood easy
+912 34 metal mid
+845 56 plastic hard
+MERGE SORT
+Time: 1.5020370483398438e-05
+Compares: 3
+Swaps: 5
+Elements:
+912 34 metal mid
+845 56 plastic hard
+1030 76 wood easy
+
+SELECTION SORT
+Time: 1.811981201171875e-05
+Compares: 3
+Swaps: 3
+Elements:
+1030 76 wood easy
+912 34 metal mid
+845 56 plastic hard
+MERGE SORT
+Time: 2.5033950805664062e-05
+Compares: 2
+Swaps: 5
+Elements:
+1030 76 wood easy
+845 56 plastic hard
+912 34 metal mid
+
+
+SELECTION SORT
+Time: 1.9788742065429688e-05
+Compares: 3
+Swaps: 3
+Elements:
+1030 76 wood easy
+912 34 metal mid
+845 56 plastic hard
+MERGE SORT
+Time: 2.8848648071289062e-05
+Compares: 2
+Swaps: 5
+Elements:
+1030 76 wood easy
+845 56 plastic hard
+912 34 metal mid
